@@ -1,0 +1,19 @@
+
+.container{
+    display: flex;
+}
+.contactContainer{
+    width: 230px;
+}
+.name{
+    color: black;
+}
+
+.number{
+    margin-left: 12px;
+    color: blue;
+}
+
+.delButton{
+    margin-left: 6px;
+}

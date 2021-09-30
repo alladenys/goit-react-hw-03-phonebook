@@ -1,0 +1,33 @@
+.form{
+    border: 1px solid black;
+    border-radius: 4px;
+    padding: 8px;
+    height: 100%;
+    width: 300px;
+}
+
+.label{
+    display: block;
+    width: 100%;
+    padding: 8px;
+    margin-top: 6px; 
+}
+
+.title{
+    display: block;
+    width: 100px;
+    font-size: 20px;
+    margin-right: 16px;
+    margin-left: 16px;
+}
+.input{
+    border: 1px solid black;
+    border-radius: 4px;
+    height: 20px;
+    margin-top: 8px;
+}
+
+.button{
+    margin-top: 20px;
+    margin-left: 10px;
+}
